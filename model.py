@@ -35,13 +35,13 @@ def training(df):
     # Get team result in tournament (round)
     y_train = train_df.pop("ROUND")
 
-    # Convert the column (ROUND) to an array
+    # Convert df to an array
     X_train = train_df.values
 
     # Get team result in tournament (round)
     y_test = test_df.pop("ROUND")
 
-    # Convert the column (ROUND) to an array
+    # Convert df to an array
     X_test = test_df.values
 
     print(f"Training with data of shape {X_train.shape}")
