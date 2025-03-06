@@ -1,0 +1,1079 @@
+1079	Akron
+1078	Alabama
+1077	Arizona
+1076	Auburn
+1075	Baylor
+1074	Boise St.
+1073	BYU
+1072	Clemson
+1071	Colgate
+1070	College of Charleston
+1069	Colorado
+1068	Colorado St.
+1067	Connecticut
+1066	Creighton
+1065	Dayton
+1064	Drake
+1063	Duke
+1062	Duquesne
+1061	Florida
+1060	Florida Atlantic
+1059	Gonzaga
+1058	Grambling St.
+1057	Grand Canyon
+1056	Houston
+1055	Howard
+1054	Illinois
+1053	Iowa St.
+1052	James Madison
+1051	Kansas
+1050	Kentucky
+1049	Long Beach St.
+1048	Longwood
+1047	Marquette
+1046	McNeese St.
+1045	Michigan St.
+1044	Mississippi St.
+1043	Montana St.
+1042	Morehead St.
+1041	Nebraska
+1040	Nevada
+1039	New Mexico
+1038	North Carolina
+1037	North Carolina St.
+1036	Northwestern
+1035	Oakland
+1034	Oregon
+1033	Purdue
+1032	Saint Mary's
+1031	Saint Peter's
+1030	Samford
+1029	San Diego St.
+1028	South Carolina
+1027	South Dakota St.
+1026	Stetson
+1025	TCU
+1024	Tennessee
+1023	Texas
+1022	Texas A&M
+1021	Texas Tech
+1020	UAB
+1019	Utah St.
+1018	Vermont
+1017	Virginia
+1016	Wagner
+1015	Washington St.
+1014	Western Kentucky
+1013	Wisconsin
+1012	Yale
+1011	Alabama
+1010	Arizona
+1009	Arizona St.
+1008	Arkansas
+1007	Auburn
+1006	Baylor
+1005	Boise St.
+1004	Colgate
+1003	College of Charleston
+1002	Connecticut
+1001	Creighton
+1000	Drake
+999	Duke
+998	Fairleigh Dickinson
+997	Florida Atlantic
+996	Furman
+995	Gonzaga
+994	Grand Canyon
+993	Houston
+992	Howard
+991	Illinois
+990	Indiana
+989	Iona
+988	Iowa
+987	Iowa St.
+986	Kansas
+985	Kansas St.
+984	Kennesaw St.
+983	Kent St.
+982	Kentucky
+981	Louisiana Lafayette
+980	Marquette
+979	Maryland
+978	Memphis
+977	Miami FL
+976	Michigan St.
+975	Mississippi St.
+974	Missouri
+973	Montana St.
+972	Nevada
+971	North Carolina St.
+970	Northern Kentucky
+969	Northwestern
+968	Oral Roberts
+967	Penn St.
+966	Pittsburgh
+965	Princeton
+964	Providence
+963	Purdue
+962	Saint Mary's
+961	San Diego St.
+960	Southeast Missouri St.
+959	TCU
+958	Tennessee
+957	Texas
+956	Texas A&M
+955	Texas A&M Corpus Chris
+954	Texas Southern
+953	UC Santa Barbara
+952	UCLA
+951	UNC Asheville
+950	USC
+949	Utah St.
+948	VCU
+947	Vermont
+946	Virginia
+945	West Virginia
+944	Xavier
+943	Akron
+942	Alabama
+941	Arizona
+940	Arkansas
+939	Auburn
+938	Baylor
+937	Boise St.
+936	Bryant
+935	Cal St. Fullerton
+934	Chattanooga
+933	Colgate
+932	Colorado St.
+931	Connecticut
+930	Creighton
+929	Davidson
+928	Delaware
+927	Duke
+926	Georgia St.
+925	Gonzaga
+924	Houston
+923	Illinois
+922	Indiana
+921	Iowa
+920	Iowa St.
+919	Jacksonville St.
+918	Kansas
+917	Kentucky
+916	Longwood
+915	Loyola Chicago
+914	LSU
+913	Marquette
+912	Memphis
+911	Miami FL
+910	Michigan
+909	Michigan St.
+908	Montana St.
+907	Murray St.
+906	New Mexico St.
+905	Norfolk St.
+904	North Carolina
+903	Notre Dame
+902	Ohio St.
+901	Providence
+900	Purdue
+899	Richmond
+898	Rutgers
+897	Saint Mary's
+896	Saint Peter's
+895	San Diego St.
+894	San Francisco
+893	Seton Hall
+892	South Dakota St.
+891	TCU
+890	Tennessee
+889	Texas
+888	Texas A&M Corpus Chris
+887	Texas Southern
+886	Texas Tech
+885	UAB
+884	UCLA
+883	USC
+882	Vermont
+881	Villanova
+880	Virginia Tech
+879	Wisconsin
+878	Wright St.
+877	Wyoming
+876	Yale
+875	Abilene Christian
+874	Alabama
+873	Appalachian St.
+872	Arkansas
+871	Baylor
+870	BYU
+869	Clemson
+868	Cleveland St.
+867	Colgate
+866	Colorado
+865	Connecticut
+864	Creighton
+863	Drake
+862	Drexel
+861	Eastern Washington
+860	Florida
+859	Florida St.
+858	Georgetown
+857	Georgia Tech
+856	Gonzaga
+855	Grand Canyon
+854	Hartford
+853	Houston
+852	Illinois
+851	Iona
+850	Iowa
+849	Kansas
+848	Liberty
+847	Loyola Chicago
+846	LSU
+845	Maryland
+844	Michigan
+843	Michigan St.
+842	Missouri
+841	Morehead St.
+840	Mount St. Mary's
+839	Norfolk St.
+838	North Carolina
+837	North Texas
+836	Ohio
+835	Ohio St.
+834	Oklahoma
+833	Oklahoma St.
+832	Oral Roberts
+831	Oregon
+830	Oregon St.
+829	Purdue
+828	Rutgers
+827	San Diego St.
+826	St. Bonaventure
+825	Syracuse
+824	Tennessee
+823	Texas
+822	Texas Southern
+821	Texas Tech
+820	UC Santa Barbara
+819	UCLA
+818	UNC Greensboro
+817	USC
+816	Utah St.
+815	VCU
+814	Villanova
+813	Virginia
+812	Virginia Tech
+811	West Virginia
+810	Wichita St.
+809	Winthrop
+808	Wisconsin
+807	Abilene Christian
+806	Arizona St.
+805	Auburn
+804	Baylor
+803	Belmont
+802	Bradley
+801	Buffalo
+800	Cincinnati
+799	Colgate
+798	Duke
+797	Fairleigh Dickinson
+796	Florida
+795	Florida St.
+794	Gardner Webb
+793	Georgia St.
+792	Gonzaga
+791	Houston
+790	Iona
+789	Iowa
+788	Iowa St.
+787	Kansas
+786	Kansas St.
+785	Kentucky
+784	Liberty
+783	Louisville
+782	LSU
+781	Marquette
+780	Maryland
+779	Michigan
+778	Michigan St.
+777	Minnesota
+776	Mississippi
+775	Mississippi St.
+774	Montana
+773	Murray St.
+772	Nevada
+771	New Mexico St.
+770	North Carolina
+769	North Carolina Central
+768	North Dakota St.
+767	Northeastern
+766	Northern Kentucky
+765	Ohio St.
+764	Oklahoma
+763	Old Dominion
+762	Oregon
+761	Prairie View A&M
+760	Purdue
+759	Saint Louis
+758	Saint Mary's
+757	Seton Hall
+756	St. John's
+755	Syracuse
+754	Temple
+753	Tennessee
+752	Texas Tech
+751	UC Irvine
+750	UCF
+749	Utah St.
+748	VCU
+747	Vermont
+746	Villanova
+745	Virginia
+744	Virginia Tech
+743	Washington
+742	Wisconsin
+741	Wofford
+740	Yale
+739	Alabama
+738	Arizona
+737	Arizona St.
+736	Arkansas
+735	Auburn
+734	Bucknell
+733	Buffalo
+732	Butler
+731	Cal St. Fullerton
+730	Cincinnati
+729	Clemson
+728	College of Charleston
+727	Creighton
+726	Davidson
+725	Duke
+724	Florida
+723	Florida St.
+722	Georgia St.
+721	Gonzaga
+720	Houston
+719	Iona
+718	Kansas
+717	Kansas St.
+716	Kentucky
+715	Lipscomb
+714	LIU Brooklyn
+713	Loyola Chicago
+712	Marshall
+711	Miami FL
+710	Michigan
+709	Michigan St.
+708	Missouri
+707	Montana
+706	Murray St.
+705	Nevada
+704	New Mexico St.
+703	North Carolina
+702	North Carolina Central
+701	North Carolina St.
+700	Ohio St.
+699	Oklahoma
+698	Penn
+697	Providence
+696	Purdue
+695	Radford
+694	Rhode Island
+693	San Diego St.
+692	Seton Hall
+691	South Dakota St.
+690	St. Bonaventure
+689	Stephen F. Austin
+688	Syracuse
+687	TCU
+686	Tennessee
+685	Texas
+684	Texas A&M
+683	Texas Southern
+682	Texas Tech
+681	UCLA
+680	UMBC
+679	UNC Greensboro
+678	Villanova
+677	Virginia
+676	Virginia Tech
+675	West Virginia
+674	Wichita St.
+673	Wright St.
+672	Xavier
+671	Arizona
+670	Arkansas
+669	Baylor
+668	Bucknell
+667	Butler
+666	Cincinnati
+665	Creighton
+664	Dayton
+663	Duke
+662	East Tennessee St.
+661	Florida
+660	Florida Gulf Coast
+659	Florida St.
+658	Gonzaga
+657	Iona
+656	Iowa St.
+655	Jacksonville St.
+654	Kansas
+653	Kansas St.
+652	Kent St.
+651	Kentucky
+650	Louisville
+649	Marquette
+648	Maryland
+647	Miami FL
+646	Michigan
+645	Michigan St.
+644	Middle Tennessee
+643	Minnesota
+642	Mount St. Mary's
+641	Nevada
+640	New Mexico St.
+639	New Orleans
+638	North Carolina
+637	North Carolina Central
+636	North Dakota
+635	Northern Kentucky
+634	Northwestern
+633	Notre Dame
+632	Oklahoma St.
+631	Oregon
+630	Princeton
+629	Providence
+628	Purdue
+627	Rhode Island
+626	Saint Mary's
+625	Seton Hall
+624	SMU
+623	South Carolina
+622	South Dakota St.
+621	Texas Southern
+620	Troy
+619	UC Davis
+618	UCLA
+617	UNC Wilmington
+616	USC
+615	Vanderbilt
+614	VCU
+613	Vermont
+612	Villanova
+611	Virginia
+610	Virginia Tech
+609	Wake Forest
+608	West Virginia
+607	Wichita St.
+606	Winthrop
+605	Wisconsin
+604	Xavier
+603	Arizona
+602	Austin Peay
+601	Baylor
+600	Buffalo
+599	Butler
+598	Cal St. Bakersfield
+597	California
+596	Chattanooga
+595	Cincinnati
+594	Colorado
+593	Connecticut
+592	Dayton
+591	Duke
+590	Fairleigh Dickinson
+589	Florida Gulf Coast
+588	Fresno St.
+587	Gonzaga
+586	Green Bay
+585	Hampton
+584	Hawaii
+583	Holy Cross
+582	Indiana
+581	Iona
+580	Iowa
+579	Iowa St.
+578	Kansas
+577	Kentucky
+576	Little Rock
+575	Maryland
+574	Miami FL
+573	Michigan
+572	Michigan St.
+571	Middle Tennessee
+570	North Carolina
+569	Northern Iowa
+568	Notre Dame
+567	Oklahoma
+566	Oregon
+565	Oregon St.
+564	Pittsburgh
+563	Providence
+562	Purdue
+561	Saint Joseph's
+560	Seton Hall
+559	South Dakota St.
+558	Southern
+557	Stephen F. Austin
+556	Stony Brook
+555	Syracuse
+554	Temple
+553	Texas
+552	Texas A&M
+551	Texas Tech
+550	Tulsa
+549	UNC Asheville
+548	UNC Wilmington
+547	USC
+546	Utah
+545	Vanderbilt
+544	VCU
+543	Villanova
+542	Virginia
+541	Weber St.
+540	West Virginia
+539	Wichita St.
+538	Wisconsin
+537	Xavier
+536	Yale
+535	Albany
+534	Arizona
+533	Arkansas
+532	Baylor
+531	Belmont
+530	Boise St.
+529	Buffalo
+528	Butler
+527	BYU
+526	Cincinnati
+525	Coastal Carolina
+524	Davidson
+523	Dayton
+522	Duke
+521	Eastern Washington
+520	Georgetown
+519	Georgia
+518	Georgia St.
+517	Gonzaga
+516	Hampton
+515	Harvard
+514	Indiana
+513	Iowa
+512	Iowa St.
+511	Kansas
+510	Kentucky
+509	Lafayette
+508	Louisville
+507	LSU
+506	Manhattan
+505	Maryland
+504	Michigan St.
+503	Mississippi
+502	New Mexico St.
+501	North Carolina
+500	North Carolina St.
+499	North Dakota St.
+498	North Florida
+497	Northeastern
+496	Northern Iowa
+495	Notre Dame
+494	Ohio St.
+493	Oklahoma
+492	Oklahoma St.
+491	Oregon
+490	Providence
+489	Purdue
+488	Robert Morris
+487	San Diego St.
+486	SMU
+485	St. John's
+484	Stephen F. Austin
+483	Texas
+482	Texas Southern
+481	UAB
+480	UC Irvine
+479	UCLA
+478	Utah
+477	Valparaiso
+476	VCU
+475	Villanova
+474	Virginia
+473	West Virginia
+472	Wichita St.
+471	Wisconsin
+470	Wofford
+469	Wyoming
+468	Xavier
+467	Albany
+466	American
+465	Arizona
+464	Arizona St.
+463	Baylor
+462	BYU
+461	Cal Poly
+460	Cincinnati
+459	Coastal Carolina
+458	Colorado
+457	Connecticut
+456	Creighton
+455	Dayton
+454	Delaware
+453	Duke
+452	Eastern Kentucky
+451	Florida
+450	George Washington
+449	Gonzaga
+448	Harvard
+447	Iowa
+446	Iowa St.
+445	Kansas
+444	Kansas St.
+443	Kentucky
+442	Louisiana Lafayette
+441	Louisville
+440	Manhattan
+439	Massachusetts
+438	Memphis
+437	Mercer
+436	Michigan
+435	Michigan St.
+434	Milwaukee
+433	Mount St. Mary's
+432	Nebraska
+431	New Mexico
+430	New Mexico St.
+429	North Carolina
+428	North Carolina Central
+427	North Carolina St.
+426	North Dakota St.
+425	Ohio St.
+424	Oklahoma
+423	Oklahoma St.
+422	Oregon
+421	Pittsburgh
+420	Providence
+419	Saint Joseph's
+418	Saint Louis
+417	San Diego St.
+416	Stanford
+415	Stephen F. Austin
+414	Syracuse
+413	Tennessee
+412	Texas
+411	Texas Southern
+410	Tulsa
+409	UCLA
+408	VCU
+407	Villanova
+406	Virginia
+405	Weber St.
+404	Western Michigan
+403	Wichita St.
+402	Wisconsin
+401	Wofford
+400	Xavier
+399	Akron
+398	Albany
+397	Arizona
+396	Belmont
+395	Boise St.
+394	Bucknell
+393	Butler
+392	California
+391	Cincinnati
+390	Colorado
+389	Colorado St.
+388	Creighton
+387	Davidson
+386	Duke
+385	Florida
+384	Florida Gulf Coast
+383	Georgetown
+382	Gonzaga
+381	Harvard
+380	Illinois
+379	Indiana
+378	Iona
+377	Iowa St.
+376	James Madison
+375	Kansas
+374	Kansas St.
+373	La Salle
+372	Liberty
+371	LIU Brooklyn
+370	Louisville
+369	Marquette
+368	Memphis
+367	Miami FL
+366	Michigan
+365	Michigan St.
+364	Middle Tennessee
+363	Minnesota
+362	Mississippi
+361	Missouri
+360	Montana
+359	New Mexico
+358	New Mexico St.
+357	North Carolina
+356	North Carolina A&T
+355	North Carolina St.
+354	Northwestern St.
+353	Notre Dame
+352	Ohio St.
+351	Oklahoma
+350	Oklahoma St.
+349	Oregon
+348	Pacific
+347	Pittsburgh
+346	Saint Louis
+345	Saint Mary's
+344	San Diego St.
+343	South Dakota St.
+342	Southern
+341	Syracuse
+340	Temple
+339	UCLA
+338	UNLV
+337	Valparaiso
+336	VCU
+335	Villanova
+334	Western Kentucky
+333	Wichita St.
+332	Wisconsin
+331	Alabama
+330	Baylor
+329	Belmont
+328	BYU
+327	California
+326	Cincinnati
+325	Colorado
+324	Colorado St.
+323	Connecticut
+322	Creighton
+321	Davidson
+320	Detroit
+319	Duke
+318	Florida
+317	Florida St.
+316	Georgetown
+315	Gonzaga
+314	Harvard
+313	Indiana
+312	Iona
+311	Iowa St.
+310	Kansas
+309	Kansas St.
+308	Kentucky
+307	Lamar
+306	Lehigh
+305	LIU Brooklyn
+304	Long Beach St.
+303	Louisville
+302	Loyola MD
+301	Marquette
+300	Memphis
+299	Michigan
+298	Michigan St.
+297	Mississippi Valley St.
+296	Missouri
+295	Montana
+294	Murray St.
+293	New Mexico
+292	New Mexico St.
+291	Norfolk St.
+290	North Carolina
+289	North Carolina St.
+288	Notre Dame
+287	Ohio
+286	Ohio St.
+285	Purdue
+284	Saint Louis
+283	Saint Mary's
+282	San Diego St.
+281	South Dakota St.
+280	South Florida
+279	Southern Miss
+278	St. Bonaventure
+277	Syracuse
+276	Temple
+275	Texas
+274	UNC Asheville
+273	UNLV
+272	Vanderbilt
+271	VCU
+270	Vermont
+269	Virginia
+268	West Virginia
+267	Western Kentucky
+266	Wichita St.
+265	Wisconsin
+264	Xavier
+263	Akron
+262	Alabama St.
+261	Arizona
+260	Belmont
+259	Boston University
+258	Bucknell
+257	Butler
+256	BYU
+255	Cincinnati
+254	Clemson
+253	Connecticut
+252	Duke
+251	Florida
+250	Florida St.
+249	George Mason
+248	Georgetown
+247	Georgia
+246	Gonzaga
+245	Hampton
+244	Illinois
+243	Indiana St.
+242	Kansas
+241	Kansas St.
+240	Kentucky
+239	Little Rock
+238	LIU Brooklyn
+237	Louisville
+236	Marquette
+235	Memphis
+234	Michigan
+233	Michigan St.
+232	Missouri
+231	Morehead St.
+230	North Carolina
+229	Northern Colorado
+228	Notre Dame
+227	Oakland
+226	Ohio St.
+225	Old Dominion
+224	Penn St.
+223	Pittsburgh
+222	Princeton
+221	Purdue
+220	Richmond
+219	Saint Peter's
+218	San Diego St.
+217	St. John's
+216	Syracuse
+215	Temple
+214	Tennessee
+213	Texas
+212	Texas A&M
+211	UAB
+210	UC Santa Barbara
+209	UCLA
+208	UNC Asheville
+207	UNLV
+206	USC
+205	Utah St.
+204	UTSA
+203	Vanderbilt
+202	VCU
+201	Villanova
+200	Washington
+199	West Virginia
+198	Wisconsin
+197	Wofford
+196	Xavier
+195	Arkansas Pine Bluff
+194	Baylor
+193	Butler
+192	BYU
+191	California
+190	Clemson
+189	Cornell
+188	Duke
+187	East Tennessee St.
+186	Florida
+185	Florida St.
+184	Georgetown
+183	Georgia Tech
+182	Gonzaga
+181	Houston
+180	Kansas
+179	Kansas St.
+178	Kentucky
+177	Lehigh
+176	Louisville
+175	Marquette
+174	Maryland
+173	Michigan St.
+172	Minnesota
+171	Missouri
+170	Montana
+169	Morgan St.
+168	Murray St.
+167	New Mexico
+166	New Mexico St.
+165	North Texas
+164	Northern Iowa
+163	Notre Dame
+162	Oakland
+161	Ohio
+160	Ohio St.
+159	Oklahoma St.
+158	Old Dominion
+157	Pittsburgh
+156	Purdue
+155	Richmond
+154	Robert Morris
+153	Saint Mary's
+152	Sam Houston St.
+151	San Diego St.
+150	Siena
+149	Syracuse
+148	Temple
+147	Tennessee
+146	Texas
+145	Texas A&M
+144	UC Santa Barbara
+143	UNLV
+142	Utah St.
+141	UTEP
+140	Vanderbilt
+139	Vermont
+138	Villanova
+137	Wake Forest
+136	Washington
+135	West Virginia
+134	Winthrop
+133	Wisconsin
+132	Wofford
+131	Xavier
+130	Akron
+129	Alabama St.
+128	American
+127	Arizona
+126	Arizona St.
+125	Binghamton
+124	Boston College
+123	Butler
+122	BYU
+121	Cal St. Northridge
+120	California
+119	Chattanooga
+118	Clemson
+117	Cleveland St.
+116	Connecticut
+115	Cornell
+114	Dayton
+113	Duke
+112	East Tennessee St.
+111	Florida St.
+110	Gonzaga
+109	Illinois
+108	Kansas
+107	Louisville
+106	LSU
+105	Marquette
+104	Maryland
+103	Memphis
+102	Michigan
+101	Michigan St.
+100	Minnesota
+99	Mississippi St.
+98	Missouri
+97	Morehead St.
+96	Morgan St.
+95	North Carolina
+94	North Dakota St.
+93	Northern Iowa
+92	Ohio St.
+91	Oklahoma
+90	Oklahoma St.
+89	Pittsburgh
+88	Portland St.
+87	Purdue
+86	Radford
+85	Robert Morris
+84	Siena
+83	Stephen F. Austin
+82	Syracuse
+81	Temple
+80	Tennessee
+79	Texas
+78	Texas A&M
+77	UCLA
+76	USC
+75	Utah
+74	Utah St.
+73	VCU
+72	Villanova
+71	Wake Forest
+70	Washington
+69	West Virginia
+68	Western Kentucky
+67	Wisconsin
+66	Xavier
+65	American
+64	Arizona
+63	Arkansas
+62	Austin Peay
+61	Baylor
+60	Belmont
+59	Boise St.
+58	Butler
+57	BYU
+56	Cal St. Fullerton
+55	Clemson
+54	Connecticut
+53	Coppin St.
+52	Cornell
+51	Davidson
+50	Drake
+49	Duke
+48	George Mason
+47	Georgetown
+46	Georgia
+45	Gonzaga
+44	Indiana
+43	Kansas
+42	Kansas St.
+41	Kent St.
+40	Kentucky
+39	Louisville
+38	Marquette
+37	Memphis
+36	Miami FL
+35	Michigan St.
+34	Mississippi St.
+33	Mississippi Valley St.
+32	Mount St. Mary's
+31	North Carolina
+30	Notre Dame
+29	Oklahoma
+28	Oral Roberts
+27	Oregon
+26	Pittsburgh
+25	Portland St.
+24	Purdue
+23	Saint Joseph's
+22	Saint Mary's
+21	San Diego
+20	Siena
+19	South Alabama
+18	Stanford
+17	Temple
+16	Tennessee
+15	Texas
+14	Texas A&M
+13	UCLA
+12	UMBC
+11	UNLV
+10	USC
+9	UT Arlington
+8	Vanderbilt
+7	Villanova
+6	Washington St.
+5	West Virginia
+4	Western Kentucky
+3	Winthrop
+2	Wisconsin
+1	Xavier
