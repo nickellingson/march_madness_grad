@@ -65,10 +65,26 @@ def training(df):
 
 
 def get_team(id):
-    # TODO
     # read text file and return team name from id
-    pass
 
+    with open('id_to_team.txt', "r") as f:
+        for line in f:
+            # itterate through line and create list from tab delimiter
+            line_list = line.split("\t")
+            # found id return team
+            if int(line_list[0]) == id:
+                return line_list[1]
+
+def get_id(team):
+    # read text file and return team name from id
+
+    with open('id_to_team.txt', "r") as f:
+        for line in f:
+            # itterate through line and create list from tab delimiter
+            line_list = line.split("\t")
+            # found id return team
+            if line_list[1].strip("\n") == team:
+                return line_list[0]
 
 
 if __name__=="__main__":
